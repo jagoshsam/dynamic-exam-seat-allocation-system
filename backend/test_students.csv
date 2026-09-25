@@ -1,0 +1,3 @@
+student_id,name,programme,year,special_needs,conflict_exams,priority_score
+TEST001,Test Student One,AI,2,false,,10
+TEST002,Test Student Two,DS,2,false,,5
